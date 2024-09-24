@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from farra_exam_reader.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "farra_exam_reader"
